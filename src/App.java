@@ -45,9 +45,9 @@ public class App {
 
         // Add items to the ComboBoxModel
         cbxmCommuter.addElement("Adult");
-        cbxmCommuter.addElement("Scholars");
-        cbxmCommuter.addElement("Pensioners");
-        cbxmCommuter.addElement("Disables");
+        cbxmCommuter.addElement("Scholar");
+        cbxmCommuter.addElement("Pensioner");
+        cbxmCommuter.addElement("Disabled");
         cbxmCommuter.addElement("Children");
 
         // Create a JComboBox with the ComboBoxModel
